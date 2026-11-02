@@ -175,11 +175,15 @@ Se você trabalha com **Tecnologia, Desenvolvimento, RPA, Dados ou Automação**
 <div align="center">
 
 <a href="https://www.linkedin.com/in/leonardomudrik-ti/">
-<img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Mudrik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:leonardomudrik@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://wa.me/5531997672188">
+<img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://curriculo-leonardo-beta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-Acesse-DC143C?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
