@@ -343,15 +343,26 @@ body {
   font-size: clamp(1.6rem, 2vw, 2.1rem);
 }
 
+.about-headline {
+  margin-bottom: 20px;
+  color: var(--text);
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+
 .about-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 24px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
 }
 
 .about-grid p {
   color: var(--muted);
   font-size: 1.02rem;
+}
+
+.about-subtitle {
+  margin: 28px 0 14px;
 }
 
 .card-grid {
