@@ -174,7 +174,7 @@ Se você trabalha com **Tecnologia, Desenvolvimento, RPA, Dados ou Automação**
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/leonardomudrik-ti/">
+<a href="https://www.linkedin.com/in/devleonardomudrik/">
 <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Mudrik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
